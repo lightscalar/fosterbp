@@ -1,0 +1,53 @@
+html,body {
+    background-color: #012453;
+    font-family: 'Lato', sans-serif;
+}
+
+.banner {
+    position: absolute;
+    min-height: 800px;
+    width: 100%;
+    background-image: url('../images/barton_pond_2.jpg');
+    background-image: url('../images/house_by_pond.jpg');
+    background-repeat: no-repeat;
+    background-position: left;
+    border-top: 5px solid #7f8c8d;
+    border-bottom: 5px solid #7f8c8d;
+    margin: 0px;
+}
+
+
+h2 {
+    font-size: 26px;
+    font-family: 'Lato', sans-serif;
+    color: #2c3e50;
+}
+
+#title {
+}
+
+.info {
+    position: absolute;
+    top: 155px;
+    left: 15px;
+    padding: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url('../images/bg.png?v2');
+}
+
+.address {
+    font-weight: bold;
+}
+
+.bottom-bar {
+    position: absolute;
+}
+
+a {
+    color: #2980b9;
+}
+
+a:hover {
+    color: #8e44ad;
+}
